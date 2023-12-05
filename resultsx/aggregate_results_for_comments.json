@@ -1,0 +1,20 @@
+{
+    "data/processed/processed_data_dict_2_comments.csv": {
+        "Total_Unique_Words": 132,
+        "Total_Word_Count": 982,
+        "Most_Common_Words": "{\"columns\":[\"Word\",\"Count\"],\"index\":[11,2,4,5,3,6,7,8,9,66],\"data\":[[\"ai\",54],[\"andrew\",35],[\"real\",35],[\"world\",35],[\"tate\",34],[\"program\",34],[\"available\",34],[\"full\",34],[\"access\",34],[\"modern\",11]]}",
+        "Average_Word_Length": 5.651515151515151
+    },
+    "data/processed/processed_data_dict_4_comments.csv": {
+        "Total_Unique_Words": 132,
+        "Total_Word_Count": 982,
+        "Most_Common_Words": "{\"columns\":[\"Word\",\"Count\"],\"index\":[11,2,4,5,3,6,7,8,9,66],\"data\":[[\"ai\",54],[\"andrew\",35],[\"real\",35],[\"world\",35],[\"tate\",34],[\"program\",34],[\"available\",34],[\"full\",34],[\"access\",34],[\"modern\",11]]}",
+        "Average_Word_Length": 5.651515151515151
+    },
+    "data/processed/processed_data_dict_5_comments.csv": {
+        "Total_Unique_Words": 132,
+        "Total_Word_Count": 982,
+        "Most_Common_Words": "{\"columns\":[\"Word\",\"Count\"],\"index\":[11,2,4,5,3,6,7,8,9,66],\"data\":[[\"ai\",54],[\"andrew\",35],[\"real\",35],[\"world\",35],[\"tate\",34],[\"program\",34],[\"available\",34],[\"full\",34],[\"access\",34],[\"modern\",11]]}",
+        "Average_Word_Length": 5.651515151515151
+    }
+}

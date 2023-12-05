@@ -1,0 +1,44 @@
+{
+    "data/processed/processed_data_dict_1_posts.csv": {
+        "Total_Unique_Words": 150,
+        "Total_Word_Count": 1071,
+        "Most_Common_Words": "{\"columns\":[\"Word\",\"Count\"],\"index\":[11,2,4,5,3,6,7,8,9,66],\"data\":[[\"ai\",54],[\"andrew\",35],[\"real\",35],[\"world\",35],[\"tate\",34],[\"program\",34],[\"available\",34],[\"full\",34],[\"access\",34],[\"modern\",11]]}",
+        "Average_Word_Length": 5.386666666666667
+    },
+    "data/processed/processed_data_dict_3_posts.csv": {
+        "Total_Unique_Words": 150,
+        "Total_Word_Count": 1071,
+        "Most_Common_Words": "{\"columns\":[\"Word\",\"Count\"],\"index\":[11,2,4,5,3,6,7,8,9,66],\"data\":[[\"ai\",54],[\"andrew\",35],[\"real\",35],[\"world\",35],[\"tate\",34],[\"program\",34],[\"available\",34],[\"full\",34],[\"access\",34],[\"modern\",11]]}",
+        "Average_Word_Length": 5.386666666666667
+    },
+    "data/processed/processed_data_dict_6_posts.csv": {
+        "Total_Unique_Words": 258,
+        "Total_Word_Count": 1637,
+        "Most_Common_Words": "{\"columns\":[\"Word\",\"Count\"],\"index\":[44,134,127,55,151,201,0,3,53,73],\"data\":[[\"ai\",43],[\"will\",21],[\"us\",19],[\"has\",17],[\"ama\",16],[\"its\",15],[\"humans\",13],[\"our\",13],[\"new\",13],[\"like\",13]]}",
+        "Average_Word_Length": 5.445736434108527
+    },
+    "data/processed/processed_data_dict_7_posts.csv": {
+        "Total_Unique_Words": 161,
+        "Total_Word_Count": 1109,
+        "Most_Common_Words": "{\"columns\":[\"Word\",\"Count\"],\"index\":[51,63,34,87,69,21,91,11,57,60],\"data\":[[\"ai\",53],[\"new\",16],[\"using\",14],[\"gaza\",14],[\"now\",13],[\"can\",11],[\"targets\",11],[\"general\",10],[\"do\",10],[\"future\",10]]}",
+        "Average_Word_Length": 6.105590062111801
+    },
+    "data/processed/processed_data_dict_8_posts.csv": {
+        "Total_Unique_Words": 116,
+        "Total_Word_Count": 730,
+        "Most_Common_Words": "{\"columns\":[\"Word\",\"Count\"],\"index\":[21,68,11,4,26,50,92,46,47,48],\"data\":[[\"ai\",49],[\"new\",27],[\"chatgpt\",21],[\"will\",14],[\"its\",13],[\"me\",12],[\"species\",12],[\"has\",10],[\"been\",8],[\"over\",8]]}",
+        "Average_Word_Length": 4.646551724137931
+    },
+    "data/processed/processed_data_dict_9_posts.csv": {
+        "Total_Unique_Words": 113,
+        "Total_Word_Count": 1011,
+        "Most_Common_Words": "{\"columns\":[\"Word\",\"Count\"],\"index\":[14,19,44,13,17,75,36,42,37,6],\"data\":[[\"ai\",30],[\"will\",19],[\"new\",16],[\"says\",13],[\"can\",13],[\"has\",13],[\"us\",10],[\"over\",10],[\"use\",9],[\"world\",8]]}",
+        "Average_Word_Length": 5.345132743362832
+    },
+    "data/processed/processed_data_dict_10_posts.csv": {
+        "Total_Unique_Words": 173,
+        "Total_Word_Count": 1052,
+        "Most_Common_Words": "{\"columns\":[\"Word\",\"Count\"],\"index\":[15,1,12,49,34,74,23,25,54,13],\"data\":[[\"intelligence\",65],[\"will\",30],[\"chatgpt\",22],[\"its\",15],[\"new\",14],[\"has\",14],[\"why\",12],[\"can\",11],[\"years\",11],[\"just\",10]]}",
+        "Average_Word_Length": 5.104046242774566
+    }
+}

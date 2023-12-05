@@ -1,0 +1,9 @@
+wordcloud
+seaborn
+matplotlib
+requests
+selenium
+beautifulsoup4
+pandas
+numpy
+--upgrade seaborn matplotlib
